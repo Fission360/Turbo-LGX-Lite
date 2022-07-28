@@ -13,9 +13,7 @@ The current upper duct requires either a taller tophat or an open-frame printer 
 # What hotends/extruders does this support?
 It is the Mini AfterLGX Lite, so it stands that this really only supports the LGX Lite. But just like with it's originating shroud, this new design accomodates all the hotend fan and mounting options the Mini AfterLGX Lite offers (the Mosquito and Copperhead may be a tad tight, though).
 
-The BOM is nearly identical to the Sherpa version, so just look at those, substituting the Sherpa Mini for the LGX Lite: https://github.com/Fission360/Turbo-Mini-AS
-
-The setup, however, is closer to the stock shroud, so follow Bondtech's instructions for assembly, adding the top duct later in the build: https://www.bondtech.se/product/mini-after-lgx-lite-upgrade-kit-for-voron-v0/
+The BOM is nearly identical to the stock shroud, so follow Bondtech's instructions for assembly and BOM: https://www.bondtech.se/product/mini-after-lgx-lite-upgrade-kit-for-voron-v0/
 
 # Can I get the CAD?
 I will only have the STEP posted; I will not be posting the Fusion 360 file publicly simply because the timeline is attrocious. If you want the F3D file, let me know. I am doing this on my own time, so if you *really* need the CAD, just message me.
