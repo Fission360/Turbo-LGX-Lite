@@ -1,6 +1,6 @@
 # Turbo-LGX-Lite
 Turbo version of the Mini-AfterLGX Lite
-![IMG_4524](https://user-images.githubusercontent.com/93737816/181445202-2cbe77c6-3e8c-4a5b-af1c-c1a072d2edf9.jpg)
+<img src="https://user-images.githubusercontent.com/93737816/181445202-2cbe77c6-3e8c-4a5b-af1c-c1a072d2edf9.jpg" width="100" height="100">
 
 This new version of my Turbo shrouds is based off of Olof Ogland's well-thought-out Mini-AfterLGX Lite: https://www.bondtech.se/product/mini-after-lgx-lite-upgrade-kit-for-voron-v0/
 
