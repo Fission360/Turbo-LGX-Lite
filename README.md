@@ -8,7 +8,7 @@ This new version of my Turbo shroud is based off of Olof Ogland's well-thought-o
 # What's new?
 In addition to keeping all (or most) of the features on the Mini AfterLGX Lite, this new shroud boasts lower airflow restrictions, CFD-optimized internal ducting, and more even air distribution, all of which significantly improve overall performance.
 
-The current upper duct requires either a taller tophat or an open-frame printer (no panels), so if you want to keep the stock tophat height like with the Sherpa version, you're going to need to wait a little bit.
+The current upper duct requires either a taller tophat or an open-frame printer (no panels), so if you want to keep the stock tophat height like with the Sherpa version, you will likely need to create your own upper duct.
 
 # What hotends/extruders does this support?
 It is the Mini AfterLGX Lite, so it stands that this really only supports the LGX Lite. But just like with it's originating shroud, this new design accomodates all the hotend fan and mounting options the Mini AfterLGX Lite offers (the Mosquito and Copperhead may be a tad tight, though).
